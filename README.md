@@ -1,7 +1,6 @@
 Artificial Intelligence (AI) has the potential to significantly
 improve society, leading to the idea of ”AI for Good.” The
-ethical application and societal implications of AI technolo
-gies are highlighted by this paradigm. Ensuring openness,
+ethical application and societal implications of AI technologies are highlighted by this paradigm. Ensuring openness,
 justice, responsibility, and privacy in AI development is a
 key component of ethical implementation. Social impact takes
 into account AI’s wider effects on problems like accessibility,
